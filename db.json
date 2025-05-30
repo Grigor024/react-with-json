@@ -1,0 +1,85 @@
+{
+    "tnews": [
+        {
+            "id": 1,
+            "beforetitle": "Enterprise",
+            "title": "The key new features and changes in Tailwind CSS",
+            "text": "Don't be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens bed design but the back is too high for the beams and angle of the ceiling I also wanted to point out.",
+            "img": "/images/tnews_1.png",
+            "avatar": "/images/avatar_1.jpg",
+            "author": "Ryan Samuel",
+            "date": "10 September 2022"
+        },
+        {
+            "id": 2,
+            "beforetitle": "Startups",
+            "title": "Lyft launching cross-platform service this week",
+            "text": "Don't be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens bed design but the back is too high for the beams and angle of the ceiling I also wanted to point out.",
+            "img": "/images/tnews_2.png",
+            "avatar": "/images/avatar_2.jpg",
+            "author": "Nora Hazel",
+            "date": "12 September 2022"
+            
+        },
+        {
+            "id": 3,
+            "beforetitle": "Trending",
+            "title": "6 insights into the French Fashion landscape",
+            "text": "Don't be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens bed design but the back is too high for the beams and angle of the ceiling I also wanted to point out.",
+            "img": "/images/tnews_3.png",
+            "avatar": "/images/avatar_3.jpg",
+            "author": "Otto Gonzalez",
+            "date": "16 September 2022"
+        },
+        {
+            "id": 4,
+            "beforetitle": "Lifestyle",
+            "title": "Autodesk looks to future of 3D printing with Project",
+            "text": "Don't be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens bed design but the back is too high for the beams and angle of the ceiling I also wanted to point out.",
+            "img": "/images/tnews_4.png",
+            "avatar": "/images/avatar_4.jpg",
+            "author": "Ryan Samuel",
+            "date": "18 September 2022"
+        },
+        {
+            "id": 5,
+            "beforetitle": "Enterprise",
+            "title": "Autodesk looks to future of 3D printing with Project",
+            "text": "Don't be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens bed design but the back is too high for the beams and angle of the ceiling I also wanted to point out.",
+            "img": "/images/tnews_5.png",
+            "avatar": "/images/avatar_5.jpg",
+            "author": "Ryan Samuel",
+            "date": "10 September 2022"
+        },
+        {
+            "id": 6,
+            "beforetitle": "Startups",
+            "title": "Autodesk looks to future of 3D printing with Project",
+            "text": "Don't be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens bed design but the back is too high for the beams and angle of the ceiling I also wanted to point out.",
+            "img": "/images/tnews_6.png",
+            "avatar": "/images/avatar_6.jpg",
+            "author": "Nora Hazel",
+            "date": "12 September 2022"
+        }
+    ],
+    "articles": [
+        {
+            "id": 1,
+            "title": "Blockchain Development: How to learn",
+            "text": "This article offers valuable insights into the skills, resources, and steps needed to embark on a journey in blockchain development.",
+            "img": "/images/articles_1.png"
+        },
+        {
+            "id": 2,
+            "title": "How to become a full stack developer - Roadmap",
+            "text": "For those aspiring to become full stack developers, this roadmap is your ultimate guide. This article outlines the key milestones.",
+            "img": "/images/articles_2.png"
+        },
+        {
+            "id": 3,
+            "title": "Join the Web 3 Conference 2023 - Registration details",
+            "text": "This article provides essential registration details for this exciting event where experts gather to explore the latest developments",
+            "img": "/images/articles_3.png"
+        }
+    ]
+}
