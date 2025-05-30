@@ -11,14 +11,17 @@ const TrendNews = () => {
   const [articles, setArticles] = useState([])
 
   useEffect(() => {
-    fetch('/db.json')
-      .then(res => res.json())
-      .then(data => {
-        setTnews(data.tnews);
-        setArticles(data.articles);
-      })
-      .catch(err => console.error('Ошибка загрузки:', err));
-  }, []);
+  fetch('/db.json')
+    .then(res => {
+      if (!res.ok) throw new Error('Network response was not ok');
+      return res.json();
+    })
+    .then(data => {
+      setTnews(data.tnews);
+      setArticles(data.articles);
+    })
+    .catch(err => console.error('Ошибка загрузки:', err));
+}, []);
 
   return (
     <div className="flex flex-col items-center space-y-[8em]">
